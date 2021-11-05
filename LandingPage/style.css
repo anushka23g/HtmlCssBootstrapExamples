@@ -1,0 +1,105 @@
+.intro-image {
+  background-image: url("/Users/anushka.gupta-mbp/Desktop/Web Development/LandingPage/1.jpg");
+  min-height: 400px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.dark-background-image {
+    background-image: url("/Users/anushka.gupta-mbp/Desktop/Web Development/LandingPage/2.jpg");
+    min-height: 560px;
+    margin: 0px;
+
+  }
+
+
+.intro-text {
+  color: white;
+  /* padding: 50px; */
+  position: absolute;
+  margin: 100px;
+  text-align: center;
+}
+
+.intro-text2 {
+  width: 80%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  padding: 10px;
+}
+
+.row {
+  align: center;
+  text-align: center;
+}
+
+.col {
+    align: center;
+    text-align: center;
+}
+
+.subhead {
+padding-top: 50px;
+padding-bottom: 30px;
+}
+
+.section3 {
+  margin-top: 50px;
+}
+
+.card {
+  width: 18rem;
+  height: 29rem;
+}
+
+.section4Text {
+  width: 60%;
+
+ text-align: center;
+}
+
+.section5 {
+  margin-top: 30px;
+}
+
+.contactUs {
+  padding:50px 30px 50px 30px;
+  color: white;
+  background: #0c9cee;
+}
+
+.aboutUs {
+  padding:50px 30px 0px 30px;
+  color: white;
+  background: #27323a;
+}
+
+.about {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+
+.contact {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  padding-bottom: 40px;
+}
+
+.myfooter {
+  background: black;
+  color: white;
+  margin-top: 0px;
+  min-height: 100px;
+  padding-top: 30px;
+  font-size: 18px;
+}
+/*
+.section6 {
+  margin: 0px;
+} */

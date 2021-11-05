@@ -1,0 +1,180 @@
+html, section {
+  display: block;
+}
+
+.logo {
+    border-top: 4px solid #648880;
+    float: left;
+    font-size: 48px;
+    font-weight: 100;
+    letter-spacing: .5px;
+    line-height: 50px;
+    padding: 40px 0 22px 0;
+    text-transform: uppercase;
+}
+
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
+
+
+h1 {
+    font-size: 36px;
+    line-height: 44px;
+}
+h1, h2, h3, h4 {
+    color: #648880;
+}
+
+a {
+   color: white;
+   text-decoration: none;
+}
+
+.grid {
+padding: 30px;
+background: #c3d3ec;
+}
+
+.container {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.container .grid {
+    margin: 0 auto;
+    width: 960px;
+}
+
+body {
+    background: #293f50;
+    color: #888;
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.tagline {
+    margin: 66px 0 22px 0;
+    text-align: right;
+}
+
+.primary-nav {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+}
+
+.nav, ol, ul, li, section{
+    text-align: right;
+    display: block;
+    margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+ul  {
+    display: block;
+    /* list-style-type: disc; */
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+
+.hero {
+    color: #fff;
+    line-height: 44px;
+    padding: 22px 80px 66px 80px;
+    text-align: center;
+}
+
+.container {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.container, .grid {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.group {
+  display: table;
+}
+
+.hero h2 {
+    font-size: 36px;
+}
+
+.hero p {
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.btn-alt {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+}
+
+.btn {
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    letter-spacing: .5px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.row {
+
+    padding: 66px 0 44px 0;
+}
+
+.grid, .col-1-3, .col-2-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+div {
+  display: block;
+}
+
+.grid, .col-1-3, .col-2-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-1-3, .col-2-3 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.col-1-3 {
+    width: 33.33%;
+}
+
+.btn:hover {
+    background: #fff;
+}
+
+.teaser img {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 100%;
+}

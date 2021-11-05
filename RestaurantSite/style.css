@@ -1,0 +1,107 @@
+body {
+  background-image: linear-gradient(90deg,#f93d66, #6d47d9);
+}
+
+
+.nav-link {
+  background-color: #ffb400;
+  width: 180px;
+  height: 45px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 30px;
+
+  text-align: center;
+
+}
+
+strong {
+    color: black;
+}
+
+.carousel-item {
+  height: 600px;
+  width: 1500px;
+}
+
+.taco1 {
+    background-image: url("/Users/anushka.gupta-mbp/Desktop/Web Development/RestaurantSite/taco1.jpg");
+    height:300px;
+    max-width: 900px;
+    margin-bottom: 20px;
+}
+
+.cost-item {
+  background-color: #ffb400;
+  width: auto;
+  height: 140px;
+  /* padding: 10px; */
+  margin: 0px 30px 20px auto;
+/* padding: 20px; */
+  text-align: center;
+}
+
+.cost {
+  font-size: 60px;
+  text-align: center;
+  padding: 20px;
+  padding-right: 40px;
+  position: absolute;
+}
+
+.item {
+position: absolute;
+padding: 100px;
+  text-align: center;
+}
+
+.terry {
+  background-color: #ffb400;
+  width: 250px;
+  height: 50px;
+  padding: 10px;
+  margin: 60px;
+  border: 10px;
+  position: absolute;
+  text-align: center;
+}
+
+.intro-line {
+  background-color: #ffb400;
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  margin: 120px 120px 120px 60px;
+  position: absolute;
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.icon
+{
+font-size:50px;
+}
+
+.taco2 {
+    background-image: url("/Users/anushka.gupta-mbp/Desktop/Web Development/RestaurantSite/taco2.png");
+    background-repeat:no-repeat;
+    border: solid white 30px;
+    height:400px;
+    max-width: 100%;
+    margin: 20px;
+    background-color: white;
+
+}
+
+.card-text {
+  color: #525252;
+}
+
+.taco-text {
+  position: absolute;
+  margin: 100px 100px 700px 350px ;
+
+}
